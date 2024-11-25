@@ -6,7 +6,7 @@
 > You'll find diferent images in the project, change or modify them to do the recognition if you need it, that are just examples.
 
 > [!TIP]
-> Press the "q" key to stop the procces
+> Press the "q" key to stop the process
 
 ### to make a virtual enviroment with python run:
 
