@@ -37,6 +37,3 @@ and run with `python3 main.py`
 <div style="padding: 10px; background-color: #e7f3fe; color: #084298; border: 1px solid #b6d4fe; border-radius: 5px;">
 <strong>Note 2:</strong> Press the "q" key to stop the procces y middle 
 </div>
-
-!!! note
-  Note 2: Press the "q" key to stop the procces y middle
