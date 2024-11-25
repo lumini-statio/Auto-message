@@ -28,12 +28,8 @@ on Windows
 
 and run with `python3 main.py`
 
-<div style="padding: 10px; background-color: #e7f3fe; color: #084298; border: 1px solid #b6d4fe; border-radius: 5px;">
-<strong>Note:</strong> You'll find diferent images in the project, change or modify them to do the recognition if you need it, that are just examples.
-</div>
+> [!IMPORTANT]
+> You'll find diferent images in the project, change or modify them to do the recognition if you need it, that are just examples.
 
-<br>
-
-<div style="padding: 10px; background-color: #e7f3fe; color: #084298; border: 1px solid #b6d4fe; border-radius: 5px;">
-<strong>Note 2:</strong> Press the "q" key to stop the procces y middle 
-</div>
+> [!TIP]
+> Press the "q" key to stop the procces y middle
