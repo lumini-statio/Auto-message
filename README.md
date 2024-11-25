@@ -2,7 +2,7 @@
 
 ## Welcome! this is an app builded on python 3.11 using the pyautogui, keyboard and datetime libraries.
 
-> [!IMPORTANT]
+> [!NOTE]
 > You'll find diferent images in the project, change or modify them to do the recognition if you need it, that are just examples.
 
 > [!TIP]
