@@ -2,6 +2,12 @@
 
 ## Welcome! this is an app builded on python 3.11 using the pyautogui, keyboard and datetime libraries.
 
+> [!IMPORTANT]
+> You'll find diferent images in the project, change or modify them to do the recognition if you need it, that are just examples.
+
+> [!TIP]
+> Press the "q" key to stop the procces y middle
+
 ### to make a virtual enviroment with python run:
 
 `python -m venv your_env_name`
@@ -27,9 +33,3 @@ on Windows
 `pip install -r requirements.txt` on root
 
 and run with `python3 main.py`
-
-> [!IMPORTANT]
-> You'll find diferent images in the project, change or modify them to do the recognition if you need it, that are just examples.
-
-> [!TIP]
-> Press the "q" key to stop the procces y middle
